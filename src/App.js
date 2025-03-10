@@ -48,7 +48,7 @@ const tempWatchedData = [
   },
 ];
 
-const KEY = "e1813e64";
+const KEY = "";
 //Structural component
 const average = (arr) =>
   arr.reduce((acc, cur, i, arr) => acc + cur / arr.length, 0);
